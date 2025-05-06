@@ -1,1 +1,1 @@
-# wellness-companion
+# finance-manager
